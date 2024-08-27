@@ -1,3 +1,3 @@
 # TucLinterExample
 Test of Super Linter
-#SecondTitle
+# SecondTitle
